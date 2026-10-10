@@ -3,12 +3,12 @@
 Welcome to the ultimate beginner's guide to Microsoft Copilot! This repository is designed to help anyone understand, access, and use Microsoft Copilot in their daily tasks.
 
 ## 📌 Table of Contents
-1. [What is Microsoft Copilot?](#what-is-microsoft-copilot)
-2. [How to Access Copilot](#how-to-access-copilot)
-3. [Basic Prompting for Beginners](#basic-prompting-for-beginners)
-4. [Best Practices](#best-practices)
-5. [Useful Resources](#useful-resources)
 
+1. [How to Access and Setup Copilot](./Getting-Started/01-Access-Copilot.md)
+2. [Basic Prompting for Beginners](./Prompting-Basics/02-Writing-Good-Prompts.md)
+3. [Create Images with Copilot](./Image-Generation/03-Create-Images-with-Copilot.md)
+4. [Using Copilot for Coding & Development](./Coding-with-Copilot/04-Coding-Basics.md)
+5. [Productivity & Content Creation](./Content-Creation/05-Productivity-Hacks.md)
 ---
 
 ## 🤖 What is Microsoft Copilot?
