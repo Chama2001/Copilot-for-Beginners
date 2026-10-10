@@ -10,6 +10,7 @@ Welcome to the ultimate beginner's guide to Microsoft Copilot! This repository i
 4. [Using Copilot for Coding & Development](./Coding-with-Copilot/04-Coding-Basics.md)
 5. [Productivity & Content Creation](./Content-Creation/05-Productivity-Hacks.md)
 6. [Using Copilot in Microsoft 365](./Copilot-in-M365/06-Copilot-in-M365.md)
+7. [Building Custom AI Agents (Copilot Studio)](./Copilot-Studio/07-Build-Custom-AI-Agents.md)
 ---
 
 ## 🤖 What is Microsoft Copilot?
