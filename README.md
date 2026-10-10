@@ -14,6 +14,12 @@ Welcome to the ultimate beginner's guide to Microsoft Copilot! This repository i
 8. [Copilot Cheat Sheet](./Cheat-Sheet/08-Copilot-Cheat-Sheet.md)
 9. [The History of Microsoft Copilot](./Copilot-History/09-History-of-Copilot.md)
 10. [Latest Updates in Copilot](./Copilot-Updates/10-Latest-Updates.md)
+
+## 💼 Copilot for Entrepreneurs
+11. [Business Planning & Strategy](./Copilot-for-Entrepreneurs/01-Business-Planning.md)
+12. [Marketing & Sales](./Copilot-for-Entrepreneurs/02-Marketing-and-Sales.md)
+13. [Daily Operations & Management](./Copilot-for-Entrepreneurs/03-Daily-Operations.md)
+    
 ---
 
 ## 🤖 What is Microsoft Copilot?
