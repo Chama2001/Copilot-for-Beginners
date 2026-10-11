@@ -59,6 +59,7 @@ Copilot-for-Beginners/
 └── Useful-Resources.md
     
 ---
+```
 
 ## 🤖 What is Microsoft Copilot?
 Microsoft Copilot is an AI-powered assistant created by Microsoft. It helps you write content, generate images, search the web, and even write code by just using natural language (chatting). 
