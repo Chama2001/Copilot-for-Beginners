@@ -16,11 +16,47 @@ Welcome to the ultimate beginner's guide to Microsoft Copilot! This repository i
 10. [Latest Updates in Copilot](./Copilot-Updates/10-Latest-Updates.md)
 11. [Pro Tips & Tricks for Copilot](./Tips-and-Tricks/11-Pro-Tips-and-Tricks.md)
 
-
 ## 💼 Copilot for Entrepreneurs
 12. [Business Planning & Strategy](./Copilot-for-Entrepreneurs/01-Business-Planning.md)
 13. [Marketing & Sales](./Copilot-for-Entrepreneurs/02-Marketing-and-Sales.md)
 14. [Daily Operations & Management](./Copilot-for-Entrepreneurs/03-Daily-Operations.md)
+
+## 📚 Additional Resources & Guidelines
+15. [Prompt Templates Library](./Prompt-Library.md)
+16. [Frequently Asked Questions (FAQ)](./FAQ.md)
+17. [Real-World Use Cases](./Real-World-Use-Cases.md)
+18. [Useful Links & Resources](./Useful-Resources.md)
+19. [AI Ethics & Safety](./AI-Ethics-and-Safety.md)
+20. [How to Contribute](./CONTRIBUTING.md)
+   
+---
+
+## 📂 Repository File Structure
+
+Here is a quick overview of how this project is organized:
+
+```text
+Copilot-for-Beginners/
+├── Cheat-Sheet/
+├── Coding-with-Copilot/
+├── Content-Creation/
+├── Copilot-for-Entrepreneurs/
+├── Copilot-History/
+├── Copilot-in-M365/
+├── Copilot-Studio/
+├── Copilot-Updates/
+├── Getting-Started/
+├── Image-Generation/
+├── Prompting-Basics/
+├── Tips-and-Tricks/
+├── AI-Ethics-and-Safety.md
+├── CONTRIBUTING.md
+├── FAQ.md
+├── LICENSE
+├── Prompt-Library.md
+├── README.md
+├── Real-World-Use-Cases.md
+└── Useful-Resources.md
     
 ---
 
