@@ -57,8 +57,6 @@ Copilot-for-Beginners/
 ├── README.md
 ├── Real-World-Use-Cases.md
 └── Useful-Resources.md
-    
----
 ```
 
 ## 🤖 What is Microsoft Copilot?
