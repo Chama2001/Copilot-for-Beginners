@@ -16,6 +16,7 @@ Welcome to the ultimate beginner's guide to Microsoft Copilot! This repository i
 10. [Latest Updates in Copilot](./Copilot-Updates/10-Latest-Updates.md)
 11. [Pro Tips & Tricks for Copilot](./Tips-and-Tricks/11-Pro-Tips-and-Tricks.md)
 
+
 ## 💼 Copilot for Entrepreneurs
 12. [Business Planning & Strategy](./Copilot-for-Entrepreneurs/01-Business-Planning.md)
 13. [Marketing & Sales](./Copilot-for-Entrepreneurs/02-Marketing-and-Sales.md)
